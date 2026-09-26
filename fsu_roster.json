@@ -1,0 +1,22 @@
+[
+  { "playerId": "r1", "name": "Marcus Ellery", "position": "OT", "depthChartPosition": 1, "classYear": "Senior", "projectedDepartureYear": 2027, "departureProbability": 1.0, "departureReason": "graduation" },
+  { "playerId": "r2", "name": "Jaden Poole", "position": "OT", "depthChartPosition": 1, "classYear": "Junior", "projectedDepartureYear": 2028, "departureProbability": 0.6, "departureReason": "nfl_draft" },
+  { "playerId": "r3", "name": "Colton Reyes", "position": "OT", "depthChartPosition": 2, "classYear": "Sophomore", "projectedDepartureYear": null, "departureProbability": 0 },
+
+  { "playerId": "r4", "name": "Tre Dawkins", "position": "CB", "depthChartPosition": 1, "classYear": "Senior", "projectedDepartureYear": 2027, "departureProbability": 1.0, "departureReason": "graduation" },
+  { "playerId": "r5", "name": "Isaiah Cole", "position": "CB", "depthChartPosition": 1, "classYear": "Senior", "projectedDepartureYear": 2027, "departureProbability": 0.85, "departureReason": "nfl_draft" },
+  { "playerId": "r6", "name": "Bryce Nunn", "position": "CB", "depthChartPosition": 2, "classYear": "Freshman", "projectedDepartureYear": null, "departureProbability": 0 },
+
+  { "playerId": "r7", "name": "DeAndre Fisk", "position": "EDGE", "depthChartPosition": 1, "classYear": "Sophomore", "projectedDepartureYear": null, "departureProbability": 0 },
+  { "playerId": "r8", "name": "Ollie Brandt", "position": "EDGE", "depthChartPosition": 2, "classYear": "Junior", "projectedDepartureYear": 2028, "departureProbability": 0.3 },
+
+  { "playerId": "r9", "name": "Marquis Toll", "position": "S", "depthChartPosition": 1, "classYear": "Junior", "projectedDepartureYear": 2028, "departureProbability": 0.5, "departureReason": "nfl_draft" },
+  { "playerId": "r10", "name": "Grant Aylward", "position": "S", "depthChartPosition": 2, "classYear": "Freshman", "projectedDepartureYear": null, "departureProbability": 0 },
+
+  { "playerId": "r11", "name": "Devin Ashe", "position": "WR", "depthChartPosition": 1, "classYear": "Sophomore", "projectedDepartureYear": null, "departureProbability": 0 },
+  { "playerId": "r12", "name": "Kobe Renfro", "position": "WR", "depthChartPosition": 1, "classYear": "Sophomore", "projectedDepartureYear": null, "departureProbability": 0 },
+  { "playerId": "r13", "name": "Malik Hobson", "position": "WR", "depthChartPosition": 2, "classYear": "Freshman", "projectedDepartureYear": null, "departureProbability": 0 },
+
+  { "playerId": "r14", "name": "Trent Calloway", "position": "RB", "depthChartPosition": 1, "classYear": "Freshman", "projectedDepartureYear": null, "departureProbability": 0 },
+  { "playerId": "r15", "name": "J. Whitfield", "position": "RB", "depthChartPosition": 2, "classYear": "Sophomore", "projectedDepartureYear": null, "departureProbability": 0 }
+]

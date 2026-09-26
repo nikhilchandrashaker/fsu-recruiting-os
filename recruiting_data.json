@@ -1,0 +1,199 @@
+{
+  "positionNeeds": [
+    { "position": "CB", "score": 92, "targetClass": 2028, "rationale": "3 DBs departing via draft/graduation" },
+    { "position": "OT", "score": 89, "targetClass": 2028, "rationale": "Two starters graduating, thin depth behind them" },
+    { "position": "EDGE", "score": 75, "targetClass": 2028, "rationale": "Rotational need, no urgent starter gap" },
+    { "position": "S", "score": 74, "targetClass": 2028, "rationale": "One likely early-draft departure" },
+    { "position": "WR", "score": 58, "targetClass": 2028, "rationale": "Roster is deep, opportunistic adds only" },
+    { "position": "RB", "score": 41, "targetClass": 2028, "rationale": "Room is set through 2027" }
+  ],
+  "players": [
+    {
+      "id": "malik-freeman",
+      "name": "Malik Freeman",
+      "position": "OT",
+      "gradClass": 2028,
+      "highSchool": "Miami Central",
+      "state": "FL",
+      "heightIn": 78,
+      "weightLb": 305,
+      "compositeRating": 94,
+      "stars": 4,
+      "nationalRank": 62,
+      "positionRank": 5,
+      "fsuOffered": false,
+      "status": "uncommitted",
+      "offers": [
+        { "school": "Miami", "date": "2026-05-14", "status": "active" },
+        { "school": "Georgia", "date": "2026-06-02", "status": "active" }
+      ],
+      "fit": { "talent": 90, "positionNeed": 97, "rosterOpportunity": 88, "schemeFit": 82, "geographicFit": 70, "accessibility": 65 },
+      "overallFit": 94,
+      "momentum": 22,
+      "ratingHistory": [
+        { "date": "2026-06-01", "rating": 84, "nationalRank": 140 },
+        { "date": "2026-07-01", "rating": 87, "nationalRank": 110 },
+        { "date": "2026-08-01", "rating": 89, "nationalRank": 90 },
+        { "date": "2026-09-01", "rating": 91, "nationalRank": 75 },
+        { "date": "2026-09-25", "rating": 94, "nationalRank": 62 }
+      ],
+      "why": "FSU projects heavy OT need in 2028 with two starters departing. Rating climbed 10 points in 30 days. No FSU offer yet."
+    },
+    {
+      "id": "trey-holloman",
+      "name": "Trey Holloman",
+      "position": "CB",
+      "gradClass": 2027,
+      "highSchool": "Tallahassee Lincoln",
+      "state": "FL",
+      "heightIn": 71,
+      "weightLb": 178,
+      "compositeRating": 93,
+      "stars": 4,
+      "nationalRank": 71,
+      "positionRank": 8,
+      "fsuOffered": false,
+      "status": "uncommitted",
+      "offers": [
+        { "school": "Florida", "date": "2026-04-20", "status": "active" },
+        { "school": "Tennessee", "date": "2026-07-11", "status": "active" }
+      ],
+      "fit": { "talent": 88, "positionNeed": 92, "rosterOpportunity": 85, "schemeFit": 80, "geographicFit": 88, "accessibility": 60 },
+      "overallFit": 91,
+      "momentum": 18,
+      "ratingHistory": [
+        { "date": "2026-06-01", "rating": 86, "nationalRank": 150 },
+        { "date": "2026-07-01", "rating": 88, "nationalRank": 120 },
+        { "date": "2026-08-01", "rating": 90, "nationalRank": 95 },
+        { "date": "2026-09-01", "rating": 92, "nationalRank": 80 },
+        { "date": "2026-09-25", "rating": 93, "nationalRank": 71 }
+      ],
+      "why": "In-state pipeline prospect. FSU losing 3 DBs to draft/graduation. Momentum rising after a strong camp performance."
+    },
+    {
+      "id": "deshawn-carter",
+      "name": "Deshawn Carter",
+      "position": "EDGE",
+      "gradClass": 2027,
+      "highSchool": "Southlake Carroll",
+      "state": "TX",
+      "heightIn": 76,
+      "weightLb": 240,
+      "compositeRating": 91,
+      "stars": 4,
+      "nationalRank": 88,
+      "positionRank": 10,
+      "fsuOffered": true,
+      "status": "uncommitted",
+      "offers": [
+        { "school": "Florida State", "date": "2026-03-02", "status": "active" },
+        { "school": "LSU", "date": "2026-05-18", "status": "active" }
+      ],
+      "fit": { "talent": 91, "positionNeed": 75, "rosterOpportunity": 70, "schemeFit": 88, "geographicFit": 60, "accessibility": 50 },
+      "overallFit": 86,
+      "momentum": 9,
+      "ratingHistory": [
+        { "date": "2026-06-01", "rating": 88, "nationalRank": 130 },
+        { "date": "2026-07-01", "rating": 89, "nationalRank": 115 },
+        { "date": "2026-08-01", "rating": 90, "nationalRank": 100 },
+        { "date": "2026-09-01", "rating": 90, "nationalRank": 92 },
+        { "date": "2026-09-25", "rating": 91, "nationalRank": 88 }
+      ],
+      "why": "Already offered. Elite scheme fit for FSU's front. Momentum steady, no red flags."
+    },
+    {
+      "id": "jaylen-ruiz",
+      "name": "Jaylen Ruiz",
+      "position": "WR",
+      "gradClass": 2027,
+      "highSchool": "St. Thomas Aquinas",
+      "state": "FL",
+      "heightIn": 73,
+      "weightLb": 185,
+      "compositeRating": 85,
+      "stars": 3,
+      "nationalRank": 240,
+      "positionRank": 34,
+      "fsuOffered": true,
+      "status": "uncommitted",
+      "offers": [
+        { "school": "Florida State", "date": "2026-05-09", "status": "active" },
+        { "school": "Miami", "date": "2026-08-14", "status": "active" }
+      ],
+      "fit": { "talent": 85, "positionNeed": 60, "rosterOpportunity": 65, "schemeFit": 75, "geographicFit": 55, "accessibility": 45 },
+      "overallFit": 79,
+      "momentum": -6,
+      "ratingHistory": [
+        { "date": "2026-06-01", "rating": 90, "nationalRank": 180 },
+        { "date": "2026-07-01", "rating": 89, "nationalRank": 195 },
+        { "date": "2026-08-01", "rating": 87, "nationalRank": 210 },
+        { "date": "2026-09-01", "rating": 86, "nationalRank": 225 },
+        { "date": "2026-09-25", "rating": 85, "nationalRank": 240 }
+      ],
+      "why": "Offered in May. Ranking has slipped slightly and FSU was recently removed from his listed top schools."
+    },
+    {
+      "id": "chris-mabin",
+      "name": "Chris Mabin",
+      "position": "S",
+      "gradClass": 2028,
+      "highSchool": "Buford",
+      "state": "GA",
+      "heightIn": 72,
+      "weightLb": 195,
+      "compositeRating": 80,
+      "stars": 3,
+      "nationalRank": 310,
+      "positionRank": 40,
+      "fsuOffered": true,
+      "status": "uncommitted",
+      "offers": [
+        { "school": "Florida State", "date": "2026-03-20", "status": "active" },
+        { "school": "Auburn", "date": "2026-07-02", "status": "active" },
+        { "school": "Ole Miss", "date": "2026-09-05", "status": "active" }
+      ],
+      "fit": { "talent": 80, "positionNeed": 70, "rosterOpportunity": 60, "schemeFit": 65, "geographicFit": 50, "accessibility": 40 },
+      "overallFit": 73,
+      "momentum": -14,
+      "ratingHistory": [
+        { "date": "2026-06-01", "rating": 87, "nationalRank": 240 },
+        { "date": "2026-07-01", "rating": 85, "nationalRank": 260 },
+        { "date": "2026-08-01", "rating": 82, "nationalRank": 285 },
+        { "date": "2026-09-01", "rating": 80, "nationalRank": 300 },
+        { "date": "2026-09-25", "rating": 78, "nationalRank": 310 }
+      ],
+      "why": "Offered in March. Two new Power 4 offers since, FSU interest signals fading, no scheduled visit."
+    },
+    {
+      "id": "antoine-reyes",
+      "name": "Antoine Reyes",
+      "position": "IOL",
+      "gradClass": 2027,
+      "highSchool": "Duncanville",
+      "state": "TX",
+      "heightIn": 75,
+      "weightLb": 310,
+      "compositeRating": 74,
+      "stars": 3,
+      "nationalRank": 480,
+      "positionRank": 55,
+      "fsuOffered": true,
+      "status": "uncommitted",
+      "offers": [
+        { "school": "Florida State", "date": "2026-06-01", "status": "active" },
+        { "school": "Texas A&M", "date": "2026-08-22", "status": "active" }
+      ],
+      "fit": { "talent": 74, "positionNeed": 55, "rosterOpportunity": 50, "schemeFit": 60, "geographicFit": 45, "accessibility": 35 },
+      "overallFit": 68,
+      "momentum": -19,
+      "ratingHistory": [
+        { "date": "2026-06-01", "rating": 81, "nationalRank": 380 },
+        { "date": "2026-07-01", "rating": 79, "nationalRank": 410 },
+        { "date": "2026-08-01", "rating": 75, "nationalRank": 450 },
+        { "date": "2026-09-01", "rating": 72, "nationalRank": 470 },
+        { "date": "2026-09-25", "rating": 69, "nationalRank": 480 }
+      ],
+      "why": "Offered in June. Ranking down sharply, competing visit scheduled, and FSU has since filled this need internally."
+    }
+  ]
+}
